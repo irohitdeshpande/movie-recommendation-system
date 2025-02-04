@@ -1,8 +1,0 @@
-streamlit
-pandas
-numpy
-requests
-tensorflow
-scikit-learn
-nltk
-os
