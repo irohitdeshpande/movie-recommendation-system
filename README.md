@@ -20,12 +20,8 @@ This project is a Movie Recommendation System using content-based filtering. The
     ```
 3. Create a virtual environment using Anaconda:
     ```bash
-    conda create --name movie_recommendation_env python=3.8
-    conda activate movie_recommendation_env
-    ```
-4. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
+    conda create --name venv python=3.12
+    conda activate venv
     ```
 
 ## Running the App Locally
@@ -52,4 +48,3 @@ This project is a Movie Recommendation System using content-based filtering. The
 ## Deployment
 
 This app is also deployed on Streamlit. You can access it [here](https://movie-recommendation-system-5q9abndpc2xx7tparpucu5.streamlit.app/).
-
