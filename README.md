@@ -26,22 +26,13 @@ This project is a Movie Recommendation System using content-based filtering. The
 
 ## Running the App Locally
 
-1. Ensure you have all dependencies installed.
-2. Run the application:
-    ```bash
-    python app.py
-    ```
-3. Open your web browser and go to `http://localhost:8501` to access the app.
-
-## Running the App on Streamlit
-
 1. Ensure you have Streamlit installed:
     ```bash
     pip install streamlit
     ```
 2. Run the Streamlit app:
     ```bash
-    streamlit run streamlit_app.py
+    streamlit run app.py
     ```
 3. Streamlit will automatically open a new tab in your web browser with the app running.
 
