@@ -51,5 +51,5 @@ This project is a Movie Recommendation System using content-based filtering. The
 
 ## Deployment
 
-This app is also deployed on Streamlit. You can access it [here](your_streamlit_app_url).
+This app is also deployed on Streamlit. You can access it [here](https://movie-recommendation-system-5q9abndpc2xx7tparpucu5.streamlit.app/).
 
